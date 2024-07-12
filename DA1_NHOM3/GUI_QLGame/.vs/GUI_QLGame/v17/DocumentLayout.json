@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|d:\\fpt\\duan1\\bt\\da1\\da1_nhom3\\gui_qlgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|d:\\fpt\\duan1\\bt\\da1\\da1_nhom3\\gui_qlgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|d:\\fpt\\duan1\\bt\\da1\\da1_nhom3\\gui_qlgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|d:\\fpt\\duan1\\bt\\da1\\da1_nhom3\\gui_qlgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:05:39.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:04:47.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:03:13.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
