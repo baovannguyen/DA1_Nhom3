@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|d:\\fpt\\duan1\\bt\\da1\\da1_nhom3\\gui_qlgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|d:\\fpt\\duan1\\bt\\da1\\da1_nhom3\\gui_qlgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|d:\\fpt\\duan1\\bt\\da1\\da1_nhom3\\gui_qlgame\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EA5DD4-7A0B-483C-BCCA-D75B4E424BF0}|GUI_QLGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\FPT\\DuAn1\\bt\\DA1\\DA1_NHOM3\\GUI_QLGame\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
